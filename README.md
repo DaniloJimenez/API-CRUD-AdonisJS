@@ -22,3 +22,4 @@ E salve tudo.
 5) coloque o servidor para rodar e teste tudo no insomnia: node ace serve --watch
 
 fim
+# API-CRUD-AdonisJS
